@@ -6,7 +6,7 @@ I'm Dashmeet Singh, currently persuing bachelor's degree in computer science.
 - 📫 How to reach me: work.dashmeet@gmail.com
 - technologies known:
 -   languages : C , C++ , Java , Python
--   Tech Stack : MEAN stack
+-   Tech Stack : MERN stack
 -   Database : MySql , MongoDB
 
   Other Profiles
